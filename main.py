@@ -1,4 +1,3 @@
 import pandas as pd
-
-def
-
+dados = pd.DataFrame({'Nome': ['Ana', 'João'], 'Idade': [17, 18]})
+print(dados)
